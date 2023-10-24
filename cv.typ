@@ -135,9 +135,9 @@
                 // Line 2: Degree and Date Range
                 #text(style: "italic")[#edu.studyType in #edu.area] #h(1fr)
                 #start #sym.dash.en #end
-                - *Honors*: #edu.honors.join(", ")
+                // - *Honors*: #edu.honors.join(", ")
                 - *Courses*: #edu.courses.join(", ")
-                #for hi in edu.highlights [- #eval("[" + hi + "]")]
+                // #for hi in edu.highlights [- #eval("[" + hi + "]")]
             ]
         }
     ]}
