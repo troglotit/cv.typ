@@ -99,7 +99,7 @@ work:
 
 education:
   - institution: Plekhanov Russian University of Economics
-    url: https://www.rea.ru/en/Pages/default.aspx
+    url: https://www.rea.ru/en/
     area: Finance
     studyType: Specialist
     startDate: 2008-09-01
@@ -110,10 +110,11 @@ education:
       # - President's List
       # - Dean's List
     courses:
-      - Microeconomics
-      - Macroeconomics
+      - Economics (micro, macro)
       - Linear Algebra
       - Statistics
+      - Financial Markets and Portfolio Management
+      - Corporate Finance
     highlights:
       # - "*Thesis*: A convolutional neural network for predicting Greenland glacier melt and glacial water flow"
       # - "*Activites*: Debating, Chess, Cricket"
