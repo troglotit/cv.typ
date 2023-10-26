@@ -86,7 +86,7 @@
     #let profiles = (
         box(link("mailto:" + info.personal.email)),
         if uservars.showNumber {box(link("tel:" + info.personal.phone))} else {none},
-        box(link(info.personal.url)[#info.personal.url.split("//").at(1)]),
+        // box(link(info.personal.url)[#info.personal.url.split("//").at(1)]),
     )
 
     // Remove any none elements from the list

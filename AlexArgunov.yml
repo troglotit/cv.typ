@@ -6,16 +6,15 @@ personal:
   phone: (+1) 987 6543 210
   url: https://johndoe.com
   location:
-    city: New York
-    region: New York
+    city: Moscow
+    region: Moscow
     postalCode: 1234
-    country: United States of America
+    country: Russia
   profiles:
     - network: LinkedIn
-      url: https://linkedin.com/in/johndoe
+      url: https://linkedin.com/in/alexander-argunov/
 
-summary:
-  asdf
+summary: Software engineer with 8 years of experience of working in the tech industry ranging from big tech (Yandex) to Y Combinator-funded startup (Atlas YC W22). Skilled in Frontend Development with most experience using React, JavaScript, TypeScript, and Fullstack Development using Node.js. Interested in wide range of technologies and languages, have worked with Clojure and ClojureScript in a professional setting.
 
 work:
   - organization: Tern Group
@@ -26,13 +25,42 @@ work:
     endDate: "present"
     highlights:
       - Worked on a Semantic Layer of BI tool, which was written in React, Redux, JavaScript and TypeScript
-      - Lead big refactoring and performance optimizations of Drag-and-Drop UI, employed Redux's normalization techniques and React's memoization capalibities to bring 60 fps rendering
-      - Used AirBnB's TS-Migrate to migrate to TypeScript from JavaScript
+      - Lead big refactoring and performance optimizations of Drag-and-Drop UI, employed Redux's normalization techniques and React's memoization capalibities to optimize rerender of components
+      - Used AirBnB's TS-Migrate to migrate large parts of code from JavaScript to TypeScript
+      - Paved migration path for faster development feedback loop adding Rspack alongside existing Webpack configuration
+
+  - organization: UseTech
+    position: Software Developer
+    url: https://usetech.ru/
+    location: Moscow, Russia
+    startDate: 2022-08-01
+    endDate: 2022-12-30
+    highlights:
+      - Worked on client-facing B2C online-banking application. Developed new pages, new components using React, Redux-Toolkit and new integrations with API using RTK-Query
+
+  - organization: Atlas
+    position: Staff Software Developer
+    url: https://getatlas.io/
+    location: Remote / San Francisco, California
+    startDate: 2022-01-01
+    endDate: 2022-03-30
+    highlights:
+      - Worked on a customer support dashboard with liveview of customer behavior on a website using RRWeb, React, TypeScript
+
+  - organization: EPAM Systems
+    position: Software Developer
+    url: https://www.epam.com/
+    location: Remote / London, England
+    startDate: 2021-04-01
+    endDate: 2021-12-30
+    highlights:
+      - Worked at international media company with 20 million monthly reach at payments and identity team
+      - Integrated Google OAuth into SAP Cloud Identity for a special project with Google News team
 
 education:
   - institution: Plekhanov Russian University of Economics
     url: https://www.rea.ru/en/Pages/default.aspx
-    area: Finance 
+    area: Finance
     studyType: Specialist
     startDate: 2008-09-01
     endDate: 2013-06-30
@@ -42,10 +70,10 @@ education:
       # - President's List
       # - Dean's List
     courses:
-      - Algorithms & Data Structures
-      - Applications in Quantitative Finance
-      - Engineering Data Analysis
-      - Compiler Architecture
+      - Microeconomics
+      - Macroeconomics
+      - Linear Algebra
+      - Statistics
     highlights:
       # - "*Thesis*: A convolutional neural network for predicting Greenland glacier melt and glacial water flow"
       # - "*Activites*: Debating, Chess, Cricket"
