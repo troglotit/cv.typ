@@ -12,7 +12,7 @@
     showNumber: false,  // true/false Show phone number in contact info
 )
 
-// setrules and showrules can be overridden by re-declaring it here
+// // setrules and showrules can be overridden by re-declaring it here
 // #let setrules(doc) = {
 //      // Add custom document style rules here
 //
@@ -41,6 +41,7 @@
 
 #cvheading(cvdata, uservars)
 
+#cvsummary(cvdata)
 #cvwork(cvdata)
 #cveducation(cvdata)
 // #cvaffiliations(cvdata)

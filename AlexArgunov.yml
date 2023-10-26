@@ -14,7 +14,7 @@ personal:
     - network: LinkedIn
       url: https://linkedin.com/in/alexander-argunov/
 
-summary: Software engineer with 8 years of experience of working in the tech industry ranging from big tech (Yandex) to Y Combinator-funded startup (Atlas YC W22). Skilled in Frontend Development with most experience using React, JavaScript, TypeScript, and Fullstack Development using Node.js. Interested in wide range of technologies and languages, have worked with Clojure and ClojureScript in a professional setting.
+summary: Software engineer with 8 years of experience of working in the tech industry ranging from big tech (Yandex) to Y Combinator-funded startup (Atlas YC W22). Skilled in Product Engineering, Frontend Development with most experience using React, JavaScript, TypeScript, and Fullstack Development using Node.js. Interested in wide range of technologies and languages, have worked with Clojure and ClojureScript in a professional setting.
 
 work:
   - organization: Tern Group
@@ -24,28 +24,28 @@ work:
     startDate: 2023-03-01
     endDate: "present"
     highlights:
-      - Worked on a Semantic Layer of BI tool, which was written in React, Redux, JavaScript and TypeScript
-      - Lead big refactoring and performance optimizations of Drag-and-Drop UI, employed Redux's normalization techniques and React's memoization capalibities to optimize rerender of components
-      - Used AirBnB's TS-Migrate to migrate large parts of code from JavaScript to TypeScript
-      - Paved migration path for faster development feedback loop adding Rspack alongside existing Webpack configuration
+      - Worked on a Semantic Layer of BI tool, which was written in React, Redux, JavaScript and TypeScript.
+      - Led big refactoring and performance optimizations of Drag-and-Drop UI, employed Redux's normalization techniques and React's memoization capalibities to optimize rerender of components.
+      - Used AirBnB's TS-Migrate to migrate large parts of code from JavaScript to TypeScript.
+      - Paved migration path for faster development feedback loop by adding Rspack alongside existing Webpack configuration.
 
   - organization: UseTech
-    position: Software Developer
+    position: Frontend Developer
     url: https://usetech.ru/
     location: Moscow, Russia
     startDate: 2022-08-01
     endDate: 2022-12-30
     highlights:
-      - Worked on client-facing B2C online-banking application. Developed new pages, new components using React, Redux-Toolkit and new integrations with API using RTK-Query
+      - Worked on client-facing B2C online-banking application. Developed new pages, new components using React, Redux-Toolkit and new integrations with API using RTK-Query.
 
-  - organization: Atlas
+  - organization: Atlas (YC W22)
     position: Staff Software Developer
     url: https://getatlas.io/
     location: Remote / San Francisco, California
     startDate: 2022-01-01
     endDate: 2022-03-30
     highlights:
-      - Worked on a customer support dashboard with liveview of customer behavior on a website using RRWeb, React, TypeScript
+      - Worked on a customer support dashboard with liveview of customer behavior on a website using RRWeb, React, TypeScript.
 
   - organization: EPAM Systems
     position: Software Developer
@@ -54,8 +54,48 @@ work:
     startDate: 2021-04-01
     endDate: 2021-12-30
     highlights:
-      - Worked at international media company with 20 million monthly reach at payments and identity team
-      - Integrated Google OAuth into SAP Cloud Identity for a special project with Google News team
+      - Worked at international media company with 20 million monthly reach at payments and identity team.
+      - Integrated Google OAuth into SAP Cloud Identity for a special project with Google News team.
+
+  - organization: Real Estate Company
+    position: Software Developer
+    url: https://example.com/
+    location: Moscow, Russia
+    startDate: 2020-07-01
+    endDate: 2021-03-30
+    highlights:
+      - Worked on an administrative dashboard for real estate agency.
+      - "Used tech: Create React App, React Admin (it uses Material UI, React Final Form and Redux underneath), OAuth2+OpenID Connect, Mapbox GL JS, TypeScript."
+
+  - organization: Yandex
+    position: Frontend Developer
+    url: https://yandex.com/
+    location: Moscow, Russia
+    startDate: 2019-09-01
+    endDate: 2020-06-30
+    highlights:
+      - "Worked at an internal resources and tools team with 2 main focuses:"
+      - "Recruitment automation and facilitation, which included projects like Yandex's career site, candidates' interview scheduling, collaborative code editor for interviews;"
+      - HR and HR analysis tools.
+
+  - organization: BCS Bank
+    position: Frontend Developer
+    url: https://bank.bcs.ru/
+    location: Moscow, Russia
+    startDate: 2018-11-01
+    endDate: 2019-05-30
+    highlights:
+      - "Frontend development at Sfera.ru - banking solutions for entrepreneurs and small businesses. Feature development, frontend infrastructure enhancement."
+
+  - organization: Equipage
+    position: Clojure Developer
+    url: https://myequipage.com/en/
+    location: Moscow, Russia
+    startDate: 2018-04-01
+    endDate: 2018-09-30
+    highlights:
+      - "Working on taxi service's components like admin page, REST API, trip cost calculator."
+      - "Used tech: ClojureScript, Reagent, re-frame, React SemanticUI, Clojure, Pedestal, PostgreSQL, PostGIS."
 
 education:
   - institution: Plekhanov Russian University of Economics

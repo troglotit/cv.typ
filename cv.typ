@@ -354,3 +354,11 @@
 //         ]
 //     )
 // )
+
+// Summary
+#let cvsummary(info) = {
+    if info.summary != none {block(breakable: false)[
+        == Summary
+        #info.summary
+    ]} else {}
+}
